@@ -1,0 +1,12 @@
+asyncio
+boto3
+
+# Pyot dependencies
+wheel
+python-dateutil
+aiohttp
+requests
+asgiref
+pytz
+lor-deckcodes
+aioredis
